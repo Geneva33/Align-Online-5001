@@ -4,5 +4,6 @@ def main():
     print(a, " ", "is", " ", int(b), "/100")
 
 
-if__name__=="__main__":
+main()
+if __name__ == "__main__":
     main()
